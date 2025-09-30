@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9844459b8ca544c9b17681587a478560/artifacts
+end_time: 1759198717876
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9844459b8ca544c9b17681587a478560
+run_name: sedate-grouse-272
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759198714674
+status: 4
+tags: []
+user_id: siddhishnirgude

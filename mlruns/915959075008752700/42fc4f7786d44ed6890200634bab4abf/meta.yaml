@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/915959075008752700/42fc4f7786d44ed6890200634bab4abf/artifacts
+end_time: 1759199203509
+entry_point_name: ''
+experiment_id: '915959075008752700'
+lifecycle_stage: active
+run_id: 42fc4f7786d44ed6890200634bab4abf
+run_name: model_3_x1_x2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759199201994
+status: 3
+tags: []
+user_id: siddhishnirgude
